@@ -100,6 +100,6 @@ This project is supported by mentors from the **USGS EROS Center - Wildland Fire
 ## Contact
 For any inquiries, please reach out to the team:
 - Manuel Malla: mmalla1@outlook.com
-- Yash Padhara: yashpadhara@example.com
+- Yash Padhara: Yash.Padhara@studentambassadors.com
 - Sneha Pandey: gd6601692@gmail.com
 - Philippa Burgess: philippa.burgess@studentambassadors.com 
