@@ -102,4 +102,4 @@ For any inquiries, please reach out to the team:
 - Manuel Malla: mmalla1@outlook.com
 - Yash Padhara: yashpadhara@example.com
 - Sneha Pandey: gd6601692@gmail.com
-- Philippa Burgess: pburgess@usc.edu
+- Philippa Burgess: philippa.burgess@studentambassadors.com 
