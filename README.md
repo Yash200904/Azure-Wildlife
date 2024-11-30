@@ -10,9 +10,17 @@ This project investigates the recovery of the **2000 Jasper Fire**, one of the m
 - Highlight the ongoing efforts of the U.S. Forest Service to restore the Black Hills forest ecosystem.
 
 ### Background
-The **Jasper Fire** ignited on August 24, 2000, when a woman intentionally flicked a lit cigarette off the side of the road, setting off a wildfire that burned over **83,000 acres** of the Black Hills National Forest. This fire became a tragic reminder of the destructive consequences of human negligence.
+Between August 24th and September 9th, 2000, the Jasper Fire burned **83,508 acres** of ponderosa pine (Pinus ponderosa) forest in the Black Hills of South Dakota. Around **27%** of this burned area experienced high-severity fire ,completely removing established forest and resetting ecological succession across large areas (Keyser et al., 2010). High-severity fire at this scale has large implications on the region’s timber economy and ecological function
 
 As we approach the **25-year memorial** of this catastrophic event, the impact of the fire is still visible in the Black Hills. Unlike many forests that naturally regenerate after a wildfire, much of the burned area has required human intervention. Each spring, the U.S. Forest Service has a narrow two-week window to **hand-plant approximately 400 acres of native Ponderosa Pines**, which are grown locally in greenhouses. The slow recovery process underscores the challenges of reforesting this unique ecosystem.
+
+![image](https://github.com/user-attachments/assets/31db6714-f3a1-4f44-b377-8fb557f8d2e9)
+
+
+The **Black Hills National Forest** is dominated by **ponderosa pine forest**, with other species occupying wetter and higher elevation regions. This includes white spruce (Picea glauca), the second-most abundant coniferous species, bur oak (Quercus macrocarpa) the most abundant deciduous species, and quaking aspen (Populus tremuloides) (Walters et al., 2013). Ponderosa pine regeneration is particularly
+hindered within high-severity burn areas that have experienced near-total stand loss. Its heavy, small-winged seeds make long-distance dispersal difficult, limiting regeneration by distance from surviving forest (Chambers et al., 2016). As a result, ponderosa pine recolonization within high-severity burn patches may be slow and dependent on meeting certain environmental conditions.
+
+
 
 ---
 
@@ -99,7 +107,7 @@ This project is supported by mentors from the **USGS EROS Center - Wildland Fire
 
 ## Contact
 For any inquiries, please reach out to the team:
-- Manuel Malla: mmalla1@outlook.com
+- Manuel Malla: manuel.malla@studentambassadors.com
 - Yash Padhara: Yash.Padhara@studentambassadors.com
-- Sneha Pandey: gd6601692@gmail.com
+- Sneha Pandey: sneha.pandey@studentambassadors.com
 - Philippa Burgess: philippa.burgess@studentambassadors.com 
