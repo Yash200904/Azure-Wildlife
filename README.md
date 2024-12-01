@@ -3,6 +3,9 @@
 ## Project Overview
 This project investigates the recovery of the **2000 Jasper Fire**, one of the most devastating wildfires in the Black Hills of South Dakota. Using Landsat satellite imagery, machine learning models, and Azure Machine Learning Studio, our goal is to analyze the ecological recovery and explore actionable insights for forest management, wildfire resilience planning, and recovery efforts that can be applied worldwide.
 
+### 3 Minute Video Presentation Link 
+![Video](https://youtu.be/zui6rQ7kjIc)
+
 ### Objectives
 - Utilize Landsat imagery accessed via Earth Explorer and processed through ESPA to assess post-fire recovery in the Jasper Fire region.
 - Analyze key ecological metrics such as burn severity, vegetation recovery, and fuel load modeling.
