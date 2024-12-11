@@ -30,7 +30,7 @@ hindered within high-severity burn areas that have experienced near-total stand 
 ## Team Members
 - **Manuel Malla** (Lead): Information Technology engineering student at Universidad Técnica de Machala, Ecuador. Specializes in geospatial research and mangrove ecosystem monitoring.
 - **Yash Padhara** (Co-Lead): B.Tech Computer Engineering student at CVM University, India. Focused on academic projects and emerging technologies.
-- **Sneha Pandey**: Pre-final year Artificial Intelligence and Machine Learning student from Delhi, India. Contributor to JuliaHealth and researcher in deep learning applications.
+- **Sneha Pandey**: Pre-final year Artificial Intelligence and Machine Learning student from GGSIPU, India. Contributor to JuliaHealth and researcher in deep learning applications.
 - **Philippa Burgess**: Graduate student specializing in geospatial intelligence and machine learning, leveraging Azure AI for disaster resilience and recovery.
 
 ---
